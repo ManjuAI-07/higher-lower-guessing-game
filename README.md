@@ -30,5 +30,5 @@ A simple and interactive **Higher–Lower Guessing Game** where players guess wh
 ----------------------------------------------------------------------
 
 ## 🛠️ Technologies Used
-- **Language:** Python / JavaScript *(update if needed)*
-- **Platform:** Command Line Interface (CLI) / Web *(update if needed)*
+- **Language:** Python *
+- **Platform:** Command Line Interface (CLI) *
